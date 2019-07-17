@@ -1,6 +1,6 @@
 
 ```
-Azure 실습
+Azure 실습 테스트
 ```
 # Azure DevOps HOL
 
